@@ -1,0 +1,6 @@
+framework module Pods_C41DemoTests {
+  umbrella header "Pods-C41DemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

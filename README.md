@@ -1,3 +1,3 @@
 # c41Demo
 
-### A simple demo about MVVM(using RAC), Unit tests, FMDB as persistance.
+### A simple demo about MVVM(using RAC), Unit tests, FMDB as a persistence solution.

@@ -10,7 +10,6 @@ PODS:
     - CwlPosixPreconditionTesting (~> 2.2.0)
   - FMDB (2.7.10):
     - FMDB/standard (= 2.7.10)
-  - FMDB/standard (2.7.10)
   - Mantle (2.2.0):
     - Mantle/extobjc (= 2.2.0)
   - Mantle/extobjc (2.2.0)
@@ -47,6 +46,6 @@ SPEC CHECKSUMS:
   Nimble: 9e81a67096dab1d1f5160d7a3f8fa7a1eeec38fd
   Quick: 2b651168441479b949ba987f3cee41a9cc53aa32
 
-PODFILE CHECKSUM: 8664a8cbe2f32b1e8ec54a188e040177c3adca93
+PODFILE CHECKSUM: 3ce240f2d54c1d67fa6703d51a6f942bbc3b9359
 
 COCOAPODS: 1.15.2
